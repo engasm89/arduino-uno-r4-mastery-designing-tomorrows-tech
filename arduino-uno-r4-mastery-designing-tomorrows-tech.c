@@ -1,3 +1,11 @@
+/*
+ * Course: Arduino Uno R4 Mastery Designing Tomorrows Tech
+ * Platform: Arduino
+ * Author: Ashraf S A AlMadhoun
+ * Purpose: Auto-generated metadata block to document the learning goals.
+ * Notes: Auto-generated metadata block (2025-11-18)
+ */
+
 #include <stdio.h> // Illustrative serial
 
 #define OUTPUT 1 // Output
@@ -45,6 +53,7 @@ void loop(void) { // Main loop
   delay(50); // Loop delay
 }
 
+// Main routine: orchestrates the arduino uno r4 mastery designing tomorrows tech scenario
 int main(void) { // Entry point
   setup(); // Init
   for (int i = 0; i < 10; ++i) { // Simulated cycles
